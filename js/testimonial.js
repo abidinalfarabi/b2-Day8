@@ -2,29 +2,22 @@
 const Testimonial = [
   {
     Author: "Muhamad Abidin",
-    Content: "Temana Pembentuk Karakter",
-    Image: "https://static.zerochan.net/Hunter.%C3%97.Hunter.full.1456912.jpg",
+    Content: "Teman Pembentuk Karakter",
+    Image: "https://cdn.pixabay.com/photo/2017/01/22/01/23/stag-1998855_1280.jpg",
     Rating: 3,
   },
   {
     Author: "Mentor X",
     Content: "Kemanapun Pergi Kenangan Selalu Ada",
-    Image: "https://renote.net/files/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHovREE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--afdf1ef8332439b83dbf1a9f8d25c57e18dbe780/guri-do.jpg",
+    Image: "https://cdn.pixabay.com/photo/2023/01/04/09/25/boho-7696303_1280.jpg",
     Rating: 1,
   },
 
   {
     Author: "Mentor Surya",
     Content: "Manusia hanyalah alat",
-    Image: "https://static.zerochan.net/Hunter.%C3%97.Hunter.full.987760.jpg",
+    Image: "https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_1280.jpg",
     Rating: 5,
-  },
-
-  {
-    Author: "Abcdef",
-    Content: "Mantan investasi terburuk",
-    Image: "https://www.nawpic.com/media/2020/hunter-hunter-nawpic-26.jpg",
-    Rating: 3,
   },
 ];
 
